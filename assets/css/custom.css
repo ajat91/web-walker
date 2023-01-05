@@ -1,0 +1,12 @@
+.text-purple {
+  color: #5d1c9c;
+}
+.btn-warker {
+  color: #fff;
+  border-radius: 6rem !important;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+main {
+  min-height: calc(100vh - 140px) !important;
+}
